@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin e suas Vantagens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            line-height: 1.6;
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bitcoin: O que é?</h1>
+    <p>Bitcoin é uma moeda digital descentralizada, criada em 2009 por uma entidade desconhecida usando o pseudônimo Satoshi Nakamoto. É baseada em tecnologia blockchain, que permite transações seguras e transparentes.</p>
+
+    <h2>Vantagens do Bitcoin</h2>
+    <ul>
+        <li><strong>Descentralização:</strong> Não é controlado por nenhum governo ou instituição financeira.</li>
+        <li><strong>Segurança:</strong> Transações são criptografadas e registradas em uma blockchain, tornando-as praticamente imutáveis.</li>
+        <li><strong>Baixas taxas de transação:</strong> As taxas para transferências de Bitcoin costumam ser menores do que as taxas bancárias tradicionais.</li>
+        <li><strong>Transações rápidas:</strong> As transferências podem ser feitas em minutos, independentemente da localização geográfica.</li>
+        <li><strong>Acessibilidade:</strong> Qualquer pessoa com acesso à internet pode usar Bitcoin, mesmo em regiões sem infraestrutura bancária.</li>
+        <li><strong>Potencial de valorização:</strong> Historicamente, o Bitcoin tem mostrado um crescimento significativo no valor ao longo do tempo.</li>
+    </ul>
+
+    <footer>
+        <p>&copy; 2024 Informações sobre Bitcoin</p>
+    </footer>
+</body>
+</html>
